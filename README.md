@@ -28,7 +28,7 @@ Nikunj Jain - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
 
 ![Collaborative Music Recommendation System Diagram](Images/Collaborative.jpg)
 ![Default](Images/CorrelationHeatmap.jpg).
-![Default](Images/Images/SHAPValue.jpg).
+![Default](Images/SHAPValue.jpg).
 
 
 ## Feedback and Issues:
