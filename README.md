@@ -24,6 +24,12 @@ The ultimate goal of this project is to enhance the user experience by deliverin
 ## Contributors:
 Nikunj Jain - Amrita School of Computing, Amrita Vishwa Vidyapeetham, Bengaluru
 
+## Images
+
+![Collaborative Music Recommendation System Diagram](Images/Collaborative.jpg)
+![Default](Images/CorrelationHeatmap.jpg).
+![Default](Images/Images/SHAPValue.jpg).
+
 
 ## Feedback and Issues:
 We welcome feedback, suggestions, and bug reports. Please mail at nikunjcollege@gmail.com for any queries or for enhanced work.
